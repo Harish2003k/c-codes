@@ -1,4 +1,5 @@
 #include <stdio.h>
+void sum();
 void sum()
 {
     printf("\n: SUM USING FUNCTION CALLING :");
