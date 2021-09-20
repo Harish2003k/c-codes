@@ -8,5 +8,4 @@ int main()
 void swap(int c,int d)
 {
 printf("YOUR FIRST NUMBER IS %d and SECOND NUMBER IS %d",d,c);
-
 }
