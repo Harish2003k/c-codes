@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-    if(printf("----HEllO WORLD---")){}
+    if(printf("HEllO WORLD--")){}
 }
