@@ -1,9 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    char c;
-    for(c= 'A';c<='Z';c++)
-    printf("%c\n",c);
+    float a= 3/2*(1.0);
+    if(a == 1.5){
+        printf("True");
+    } else {
+        printf("%f", a);
+    }
 }
 
 
